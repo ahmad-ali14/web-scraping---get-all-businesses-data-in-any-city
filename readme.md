@@ -12,23 +12,42 @@ This will be useful for:
 
 	2- if you are searching for a job, you can get contacting data for all possible companies in your area.
 
+you will get the data in 3 formats:
+
+    1- CSV file.
+
+    2- JSON file.
+
+    3- Excel file .XLS.
+
 
 احصل على كامل داتا الفعاليات التجارية في منطقة من العالم.
 
 سيكون هذا مفيدًا لـ:
 
-1-إذا كانت شركتك بحاجة إلى بيانات لبدء تسويق أحد منتجاتها.
+    1-إذا كانت شركتك بحاجة إلى بيانات لبدء تسويق أحد منتجاتها.
 
-2- إذا كنت تبحث عن وظيفة ، يمكنك الحصول على بيانات الاتصال لجميع الشركات الممكنة في منطقتك.
+    2- إذا كنت تبحث عن وظيفة ، يمكنك الحصول على بيانات الاتصال لجميع الشركات الممكنة في منطقتك.
+
+سوف تحصل على الداتا بثلاث صيغ:
+
+    1- ملف CSV.
+
+    2- ملف JSON.
+
+    3- ملف إكسل .XLS
 
 
 
 
  ## more info 
+    1- [ web scraping: كيفية الحصول على كامل داتا الفعاليات الاقتصادية في اي مدينة ](https://www.youtube.com/watch?v=juLoQ0lxfmk&t=11s)
 
- 1- [full you tube tutorial arabic language شرح بالعربي](https://www.youtube.com/playlist?list=PLrMI74uzoMfmHqfyikZbCWh-HUW3i89Cn)
+    2-[web scraping - get all businesses data in any city](https://www.youtube.com/watch?v=duoW5zUzK-c&t=98s)
 
- 2- [youTube tutorial english](https://www.youtube.com/playlist?list=PLrMI74uzoMflFfag4AZO1cAFi90WUdTcZ)
+    1- [web scraping youtube tutorial - coronavirus live monitor شرح بالعربي](https://www.youtube.com/playlist?list=PLrMI74uzoMfmHqfyikZbCWh-HUW3i89Cn)
+
+    2- [web scraping youtube tutorial - coronavirus live monitor](https://www.youtube.com/playlist?list=PLrMI74uzoMflFfag4AZO1cAFi90WUdTcZ)
  
  ## contact
  https://www.ahmad-ali.co.uk/
