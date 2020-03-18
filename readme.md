@@ -4,6 +4,19 @@
 
 ## overview
 
+Get All data for all businesses in any specific city in the world. 
+
+This will be useful for:
+	1-if your company needs data to start marketing one of its products.
+	2- if you are searching for a job, you can get contacting data for all possible companies in your area.
+
+احصل على كامل داتا الفعاليات التجارية في منطقة من العالم.
+سيكون هذا مفيدًا لـ:
+1-إذا كانت شركتك بحاجة إلى بيانات لبدء تسويق أحد منتجاتها.
+2- إذا كنت تبحث عن وظيفة ، يمكنك الحصول على بيانات الاتصال لجميع الشركات الممكنة في منطقتك.
+
+
+
 
  ## more info 
 
