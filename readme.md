@@ -1,6 +1,6 @@
 #  web-scraping get all businesses data in any city
 
-[![Build Status](https://travis-ci.org/aa947/web-scraping---get-all-businesses-data-in-any-city.svg?branch=master)](https://travis-ci.org/aa947/web-scraping---get-all-businesses-data-in-any-city)  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) ![](https://david-dm.org/aa947/web-scraping---get-all-businesses-data-in-any-city.svg) 
+[![Build Status](https://travis-ci.org/ahmad-ali14/web-scraping---get-all-businesses-data-in-any-city.svg?branch=master)](https://travis-ci.org/ahmad-ali14/web-scraping---get-all-businesses-data-in-any-city)  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) ![](https://david-dm.org/ahmad-ali14/web-scraping---get-all-businesses-data-in-any-city.svg) 
 
 ## overview
 
