@@ -54,5 +54,6 @@ you will get the data in 3 formats:
  ## contact
  https://www.ahmad-ali.co.uk/
  
- ## licence 
- [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
+ ## also used at this repo
+
+https://github.com/ahmad-ali14/london-mini-guide-server
